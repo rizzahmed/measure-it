@@ -27,7 +27,7 @@ Width and height definition for the book: width is the short side of the closed 
 Object: one book (the same copy in every photo) with one bank card. 80 own photos, 4080 x 2296, labelled by me in Label Studio
 (run locally) with polygon masks: 80 book masks and 70 card masks (10 photos have no card). Split 56 / 16 / 8 for train / validation / test, fixed
 before any training (`dataset/splits/`, seed 42). The photos are not in the repository because the card number is readable in them
-(private link: to be added). Masks are in `dataset/annotations/instances_full.json`.
+(available on request). Masks are in `dataset/annotations/instances_full.json`.
 
 ## Results
 
@@ -82,7 +82,8 @@ Seed 42, config in `models/config.json`, library versions in `requirements.txt` 
 
 ## Weights
 
-`models/runs/default/best.pt` (176 MB) is not in git. Link: to be added.
+`models/runs/default/best.pt` (176 MB) is not in git. It is a GitHub Release asset:
+[release 1.0](https://github.com/rizzahmed/measure-it/releases/tag/1.0), direct download `https://github.com/rizzahmed/measure-it/releases/download/1.0/best.pt`. Put it in `models/runs/default/` before running `evaluate.py` or `measure.py`; check it with `sha256sum` (or `certutil -hashfile best.pt SHA256` on Windows).
 SHA-256: `71dd28cb980f4d1701977f304f18fb426bf2ed85b567363095a79fb75550b9e8`
 
 ## Hardware

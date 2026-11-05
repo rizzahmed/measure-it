@@ -14,7 +14,7 @@ Written before the object work started. Each box gets a number or a link when it
 - [x] MO-1 (accuracy) and MO-2 targets written with how they were measured. Each is met, or missed with the reason.
 - [x] A rule that refuses untrustworthy measurements, with the threshold and the number of refused images.
 - [x] Hardware, camera and image resolution written in the docs. Timings measured 5 times.
-- [ ] Seed, library versions and training config pinned. Weights linked with SHA-256 in the README.
+- [x] Seed, library versions and training config pinned. Weights linked with SHA-256 in the README.
 - [x] Plan, Objectives and this file are in `docs/`. README is at the root.
 - [x] Everything I did not finish is listed.
 - [ ] Loom recording is 5 minutes or less and answers K1 to K4.
@@ -29,4 +29,5 @@ Written before the object work started. Each box gets a number or a link when it
 - Accuracy: `measurement/results.csv` (9 measured). Raw and undistorted differ by less than 1 mm on average, within the noise of 9 photos.
 - MO-2 is ticked as "missed with the reason": mean error -6.0 mm (width) and -10.7 mm (height) against 3 / 5 mm.
 - Hardware and timings: README (median 3.9 s per photo over 5 runs). RAM was not recorded.
-- Still open: weights link (the file is too big for git), Loom recording.
+- Weights: GitHub Release 1.0, SHA-256 in the README.
+- Still open: Loom recording.
