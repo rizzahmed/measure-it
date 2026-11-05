@@ -8,3 +8,8 @@ ls_env/
 dataset/annotations/*.zip
 models/runs/**/*.pt
 __pycache__/
+measurement/photos/
+inference/output/
+__pycache__/
+measurement/photos_card_beside/
+pair_tmp.jpg
