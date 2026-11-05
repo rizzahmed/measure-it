@@ -47,3 +47,11 @@ Camera calibration was done before this Plan was written, with an AI assistant h
 ## Decision record
 
 Filled in at the end, once the work shows what was taken, what was rejected and what rejecting it cost.
+
+## Changes made while working
+
+- `main` holds one empty initial commit so that a pull request from `dev-test01` is possible.
+- Two calibration photos were left out by mistake; calibration used 27 photos.
+- Training ran on my laptop CPU at 0.25 image scale (no GPU), about 3.1 hours.
+- The card size used for scale is the standard 85.6 x 54.0 mm, not my own ruler reading (87 x 55 mm).
+- A first accuracy set with the card lying next to the book gave about +5 % error; it is kept as a breaking-condition result. The accuracy set that counts has the card on the cover.
