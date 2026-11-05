@@ -1,0 +1,8 @@
+# Python 3.11.6, CPU only.
+# Install torch/torchvision first:
+#   pip install torch==2.15.0 torchvision==0.29.2 --index-url https://download.pytorch.org/whl/cpu
+numpy==2.4.6
+opencv-python==5.0.0.93
+pycocotools==2.0.11
+torch==2.15.0
+torchvision==0.29.2

@@ -6,3 +6,5 @@ _to_delete/
 .venv/
 ls_env/
 dataset/annotations/*.zip
+models/runs/**/*.pt
+__pycache__/

@@ -1,0 +1,14 @@
+{
+  "images": 8,
+  "ground_truth_instances": 15,
+  "mean_mask_iou": 0.958724809774275,
+  "map_50": 1.0,
+  "map_50_95": 0.9727840641206978,
+  "precision": 1.0,
+  "recall": 1.0,
+  "tp": 15,
+  "fp": 0,
+  "fn": 0,
+  "score_threshold": 0.5,
+  "iou_threshold": 0.5
+}
