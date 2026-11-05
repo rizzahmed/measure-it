@@ -1,0 +1,15 @@
+raw_photos/
+dataset/raw/
+dataset/images/
+dataset/label_input/
+_to_delete/
+.venv/
+ls_env/
+dataset/annotations/*.zip
+models/runs/**/*.pt
+__pycache__/
+measurement/photos/
+inference/output/
+__pycache__/
+measurement/photos_card_beside/
+pair_tmp.jpg

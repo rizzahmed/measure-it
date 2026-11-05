@@ -1,0 +1,11 @@
+image,undistorted_status,undistorted_width,undistorted_height,raw_status,raw_width,raw_height
+IMG_20261105_122239.jpg,ok,143.3,215.1,ok,141.6,213.1
+IMG_20261105_122245.jpg,ok,146.0,231.4,ok,145.1,230.3
+IMG_20261105_122248.jpg,ok,143.9,226.2,ok,142.7,224.7
+IMG_20261105_122251.jpg,ok,142.5,224.3,ok,141.6,223.1
+IMG_20261105_122259.jpg,ok,143.3,213.9,ok,142.1,216.3
+IMG_20261105_122301.jpg,ok,144.9,212.0,ok,144.1,210.9
+IMG_20261105_122326.jpg,ok,146.5,216.6,ok,148.1,217.0
+IMG_20261105_122331.jpg,refused: book score 0.65 < 0.7,,,refused: book score 0.52 < 0.7,,
+IMG_20261105_122336.jpg,ok,148.4,218.4,ok,149.4,220.6
+IMG_20261105_122341.jpg,ok,143.3,213.1,ok,144.2,214.7

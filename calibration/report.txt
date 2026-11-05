@@ -1,0 +1,70 @@
+Photos used:            27
+Image size (w x h):     4080 x 2296
+Square size (mm):       19.5
+Reprojection error RMS: 0.6050 px
+
+Camera matrix K:
+[[3496.55     0.    2054.21 ]
+ [   0.    3498.201 1139.784]
+ [   0.       0.       1.   ]]
+
+Distortion coefficients (k1 k2 p1 p2 k3):
+[ 0.09249 -0.21418 -0.00004 -0.00068 -0.06239]
+
+Per-image reprojection error (px), worst first:
+  images/IMG_20261104_192554.jpg.jpeg          1.1404
+  images/IMG_20261104_171437.jpg.jpeg          1.0385
+  images/IMG_20261104_171641.jpg.jpeg          0.8546
+  images/IMG_20261104_171247.jpg.jpeg          0.8180
+  images/IMG_20261104_171638.jpg.jpeg          0.7658
+  images/IMG_20261104_192624.jpg.jpeg          0.7629
+  images/IMG_20261104_171307.jpg.jpeg          0.6432
+  images/IMG_20261104_171243.jpg.jpeg          0.6426
+  images/IMG_20261104_171239.jpg.jpeg          0.6105
+  images/IMG_20261104_192407.jpg.jpeg          0.6078
+  images/IMG_20261104_164836.jpg.jpeg          0.5879
+  images/IMG_20261104_192522.jpg.jpeg          0.5631
+  images/IMG_20261104_164704.jpg.jpeg          0.5207
+  images/IMG_20261104_192359.jpg.jpeg          0.5092
+  images/IMG_20261104_192535.jpg.jpeg          0.4910
+  images/IMG_20261104_164902.jpg.jpeg          0.4764
+  images/IMG_20261104_164831.jpg.jpeg          0.4738
+  images/IMG_20261104_164851.jpg.jpeg          0.4386
+  images/IMG_20261104_171339.jpg.jpeg          0.4363
+  images/IMG_20261104_164846.jpg.jpeg          0.4100
+  images/IMG_20261104_192355.jpg.jpeg          0.3979
+  images/IMG_20261104_164841.jpg.jpeg          0.3907
+  images/IMG_20261104_164855.jpg.jpeg          0.3878
+  images/IMG_20261104_192600.jpg.jpeg          0.3747
+  images/IMG_20261104_164827.jpg.jpeg          0.3553
+  images/IMG_20261104_192434.jpg.jpeg          0.3401
+  images/IMG_20261104_164726.jpg.jpeg          0.2948
+
+Detection log:
+OK    images/IMG_20261104_164704.jpg.jpeg
+OK    images/IMG_20261104_164726.jpg.jpeg
+OK    images/IMG_20261104_164827.jpg.jpeg
+OK    images/IMG_20261104_164831.jpg.jpeg
+OK    images/IMG_20261104_164836.jpg.jpeg
+OK    images/IMG_20261104_164841.jpg.jpeg
+OK    images/IMG_20261104_164846.jpg.jpeg
+OK    images/IMG_20261104_164851.jpg.jpeg
+OK    images/IMG_20261104_164855.jpg.jpeg
+OK    images/IMG_20261104_164902.jpg.jpeg
+OK    images/IMG_20261104_171239.jpg.jpeg
+OK    images/IMG_20261104_171243.jpg.jpeg
+OK    images/IMG_20261104_171247.jpg.jpeg
+OK    images/IMG_20261104_171307.jpg.jpeg
+OK    images/IMG_20261104_171339.jpg.jpeg
+OK    images/IMG_20261104_171437.jpg.jpeg
+OK    images/IMG_20261104_171638.jpg.jpeg
+OK    images/IMG_20261104_171641.jpg.jpeg
+OK    images/IMG_20261104_192355.jpg.jpeg
+OK    images/IMG_20261104_192359.jpg.jpeg
+OK    images/IMG_20261104_192407.jpg.jpeg
+OK    images/IMG_20261104_192434.jpg.jpeg
+OK    images/IMG_20261104_192522.jpg.jpeg
+OK    images/IMG_20261104_192535.jpg.jpeg
+OK    images/IMG_20261104_192554.jpg.jpeg
+OK    images/IMG_20261104_192600.jpg.jpeg
+OK    images/IMG_20261104_192624.jpg.jpeg

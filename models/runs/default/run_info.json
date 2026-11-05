@@ -1,0 +1,32 @@
+{
+  "config": {
+    "seed": 42,
+    "full_image_size": [
+      4080,
+      2296
+    ],
+    "image_scale": 0.25,
+    "num_classes": 3,
+    "pretrained": true,
+    "epochs": 15,
+    "batch_size": 2,
+    "learning_rate": 0.005,
+    "momentum": 0.9,
+    "weight_decay": 0.0005,
+    "lr_milestones": [
+      10,
+      13
+    ],
+    "lr_gamma": 0.1,
+    "score_threshold": 0.5,
+    "iou_threshold": 0.5
+  },
+  "best_epoch": 12,
+  "best_val_map_50_95": 0.9845465796579659,
+  "weights_sha256": "71dd28cb980f4d1701977f304f18fb426bf2ed85b567363095a79fb75550b9e8",
+  "torch": "2.15.0+cpu",
+  "torchvision": "0.29.2+cpu",
+  "python": "3.11.6",
+  "machine": "Windows-10-10.0.26300-SP0",
+  "processor": "Intel64 Family 6 Model 140 Stepping 1, GenuineIntel"
+}
